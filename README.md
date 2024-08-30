@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Fiqar 'lbexp' Aprialim  👋
 
-<!--
-**lbexp/lbexp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github profile, hope enjoy your stay!
 
-Here are some ideas to get you started:
+## ✍️ About Me
+- 💼 Professionally work around web technologies
+- 📖 Currently trying to learn game development & programming in general
+- 🚲 Occasionally road/gravel cycling
+- 📷 Into street photography
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- 🔗 Personal web: [lbexp.com](https://www.lbexp.com/)
+- 🔗 Linkedin: [linkedin.com/in/fiqarapr](https://www.linkedin.com/in/fiqarapr/)
+- 🔗 Instagram: [instagram.com/fiqarapr](https://www.instagram.com/fiqarapr/)
+
+## 📊 Latest stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lbexp&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbexp&layout=compact&theme=solarized-dark)
