@@ -12,9 +12,3 @@
 - 🔗 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚠𝚎𝚋: [𝚕𝚋𝚎𝚡𝚙.𝚌𝚘𝚖](https://www.lbexp.com/)
 - 🔗 𝙻𝚒𝚗𝚔𝚎𝚍𝚒𝚗: [𝚕𝚒𝚗𝚔𝚎𝚍𝚒𝚗.𝚌𝚘𝚖/𝚒𝚗/𝚏𝚒𝚚𝚊𝚛𝚊𝚙𝚛](https://www.linkedin.com/in/fiqarapr/)
 - 🔗 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖: [𝚒𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖.𝚌𝚘𝚖/𝚏𝚒𝚚𝚊𝚛𝚊𝚙𝚛](https://www.instagram.com/fiqarapr/)
-
-## 📊 𝙻𝚊𝚝𝚎𝚜𝚝 𝚜𝚝𝚊𝚝𝚜
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lbexp&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbexp&layout=compact&theme=solarized-dark)
